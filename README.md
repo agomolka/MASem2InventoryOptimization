@@ -13,8 +13,8 @@
   - Define the space of solutions, i.e. the set of admissible decisions, e.g. Granulation, minimum and maximum values
   - If you want to fine-tune the values of model parameters and decide which of them will be the subject of your sensitivity analysis. Justify that these       parameters are most vulnerable to change in the current economic situation and that examining their impact on RO will allow you to better manage the       risks
   - Clarify and propose a function/purpose that will address the needs of the COO and CFO by defining:
-* one objective function that takes into account and properly weights both COO and CFO sub-objectives
-* Two goal functions corresponding to the COO and CFO goals
+    * one objective function that takes into account and properly weights both COO and CFO sub-objectives
+    * Two goal functions corresponding to the COO and CFO goals
 
  
 ### Sensitivity analysis and action recommendations
