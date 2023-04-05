@@ -1,5 +1,5 @@
-# Inventory Optimization in ✨Julia✨ language
-Simulation optimization of inventory management decisions
+# Inventory Optimization in ✨Julia✨
+## Simulation optimization of inventory management decisions
 
 
 ### Stock optimization
