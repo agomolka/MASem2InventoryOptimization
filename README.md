@@ -1,4 +1,4 @@
-# MASem2InventoryOptimization
+# Inventory Optimization in ✨Julia✨ language
 Simulation optimization of inventory management decisions
 
 
